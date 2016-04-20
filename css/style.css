@@ -1,0 +1,26 @@
+h1{
+	font-family: 'Arial', sans-serif;
+	font-size: 70pt;
+	text-align: center;
+}
+
+p{
+	font-family: 'Arial', sans-serif;
+	font-size: 12pt;
+	text-align: center;
+}
+
+button{
+	width: 120px;
+	height: 35px;
+	background-color: #b2b2b2;
+	border: 0;
+	outline: 0;
+	cursor: pointer;
+	margin: 10px 0;
+}
+
+.content{
+	margin: 0 auto;
+	text-align: center;
+}
