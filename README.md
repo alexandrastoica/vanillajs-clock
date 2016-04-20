@@ -1,2 +1,3 @@
 # vanillajs-clock
-VanillaJS Clock 
+VanillaJS Clock
+Demo: http://codepen.io/alexandrastoica/full/dMKwQY/
